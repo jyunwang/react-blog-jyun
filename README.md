@@ -1,2 +1,2 @@
 # react-blog-jyun
-pratice react
+react pratice
