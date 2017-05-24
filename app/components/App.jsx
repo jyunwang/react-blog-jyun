@@ -11,7 +11,7 @@ import {
 export default class App extends React.Component {
   render() {
     return (
-       <div style={{textAlign: 'center'}}>
+       <div style={{height:'100%'}}>
           <HeadPanel />
           <BodyPanel />
           <FooterPanel />

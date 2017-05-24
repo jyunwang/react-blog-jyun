@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "css-loader": "^0.28.2",
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.31.0",
+    "react-dom": "^15.5.4",
     "style-loader": "^0.18.0"
   }
 }

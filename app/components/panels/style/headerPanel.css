@@ -1,6 +1,7 @@
-.container {
+.titleView {
+  background-color: gray;
   text-align: center;
-  height: 250px;
-  width: 100%;
-  background-color: black;
+  height: 100%;
+  margin-bottom: -9999px;
+  padding-bottom: 9999px;
 }
